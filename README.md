@@ -1,2 +1,10 @@
 # will-al-ittihad-Win-the-league
-A personal project to track and store Al-Ittihad's league journey by collecting match data with SQL. This is still under development, and I plan to expand it later with Pandas for deeper performance analysis.
+
+## Project Overview  
+
+This project contains data exclusively for *Al-Ittihad*, focusing on the team's progress in every round.  
+
+- The project will be *updated after every round*.  
+- After every *five rounds*,
+- a separate analysis project using *Pandas* will be created in a linked repository,<br>which may include visualizations.  
+- The *README file* will be updated every *ten rounds*.
