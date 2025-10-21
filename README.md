@@ -1,4 +1,4 @@
-# Will Al ittihad Win the league
+# Will Al Ittihad Win the league
 
 ## Project Overview  
 
@@ -8,4 +8,4 @@ This project contains data exclusively for *Al-Ittihad*, focusing on the team's 
 
 - The project will be *updated after every  five round*.
    
-- The *README file* will be updated every *ten rounds*.
+- The README file will be updated every *ten rounds*.
